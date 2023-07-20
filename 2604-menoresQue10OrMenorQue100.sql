@@ -1,0 +1,4 @@
+SELECT products.id,
+       products.name
+FROM products
+WHERE price < 10 OR price > 100
