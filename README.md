@@ -1,8 +1,9 @@
-# 🟣 Exercícios de aprendizado de Banco de Dados
+# ✳️ Exercícios de aprendizado de Banco de Dados
 
-## Pratica de banco de dados relacional usando a plataforma
-
-<img  style="display: block; margin: 0 auto; width: 250px;" src=./assets/logo-beecrowd.png>
+## 👩‍💻 Pratica de banco de dados relacional usando a plataforma
+<div align="center">
+<img width="250px" title="logo-beecrowd" src="./assets/logo-beecrowd.png"/>
+</div>
 
 ## 📌 Questões no link abaixo
 
